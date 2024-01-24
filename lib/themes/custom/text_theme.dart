@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class TTextTheme {
+class CustomTextTheme {
   // light
   static const lightTheme = TextTheme(
     bodySmall: TextStyle(

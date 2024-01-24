@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-class TColorScheme {
+class CustomColorScheme {
   // light
   static final lightTheme = ColorScheme.fromSeed(
     seedColor: Colors.deepPurple,
